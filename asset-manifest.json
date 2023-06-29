@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d79d3a76.css",
+    "main.js": "/static/js/main.89489a8e.js",
+    "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
+    "static/media/Rest-API.png": "/static/media/Rest-API.c5618b6df35050c50c2e.png",
+    "static/media/React-icon.svg.png": "/static/media/React-icon.svg.73dbb5bcec516da82694.png",
+    "static/media/smart-c-m-ss.png": "/static/media/smart-c-m-ss.94439165f33e54467b7b.png",
+    "static/media/e-com-ss.png": "/static/media/e-com-ss.9146150e26e0b1ba8715.png",
+    "static/media/chatroom-ss.png": "/static/media/chatroom-ss.188f22c4491d75fbf1e4.png",
+    "static/media/mern-e-com-dash-ss.png": "/static/media/mern-e-com-dash-ss.0d965fc066ec2abda199.png",
+    "static/media/nodejs.png": "/static/media/nodejs.abfaef34ea49d0c7cd3c.png",
+    "static/media/hi.webp": "/static/media/hi.9ae89cd8efd86aea6fa9.webp",
+    "static/media/mongodb.png": "/static/media/mongodb.2178943141ba7e7fae4e.png",
+    "static/media/boots.jpg": "/static/media/boots.a339df5a1ec7506d0f11.jpg",
+    "index.html": "/index.html",
+    "main.d79d3a76.css.map": "/static/css/main.d79d3a76.css.map",
+    "main.89489a8e.js.map": "/static/js/main.89489a8e.js.map",
+    "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d79d3a76.css",
+    "static/js/main.89489a8e.js"
+  ]
+}
