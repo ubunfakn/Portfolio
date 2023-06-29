@@ -1,0 +1,36 @@
+/* .about-text {
+    width: 100%;
+    animation: typing 2s steps(22), blink 0.8s step-end infinite alternate;
+    overflow: hidden;
+    border-right: 3px solid;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 3vmin;
+  }
+  
+  @keyframes typing {
+    from {
+      width: 0
+    }
+  }
+      
+  @keyframes blink {
+    50% {
+      border-color: transparent
+    }
+  } */
+
+  .about-text {
+    overflow: hidden;
+    /* white-space: nowrap; */
+    width: 0;
+    color: aqua;
+    animation: typing;
+    animation-duration: 1.5s;
+    animation-timing-function: steps(30, end);
+    animation-fill-mode: forwards;
+  }
+    
+  @keyframes typing {
+    from { width: 0 }
+    to { width: 100% }
+  }
